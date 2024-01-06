@@ -10,13 +10,5 @@ public class Test100 {
 	{
 		System.out.println("First100");
 	}
-	
-	@Test
-	public void test101()
-	{
-		System.out.println("Second101");
-	}
-	
-	
 
 }
